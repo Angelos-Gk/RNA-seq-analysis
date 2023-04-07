@@ -1,2 +1,2 @@
-# RNA-seq-analysis
-A workflow to analyze RNA sequencing data (differential gene expression)
+# RNAseq data manipulation
+An example script on how to manipulate RNA sequencing data (differential gene expression)
