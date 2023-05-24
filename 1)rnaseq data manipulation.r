@@ -50,7 +50,4 @@ data.long %>%
   # head()
   arrange(mean_FPKM) # ascending order (use arrage(-mean_FPKM) for descending order))
   
-  
-  
-  
-  
+sessionInfo()
