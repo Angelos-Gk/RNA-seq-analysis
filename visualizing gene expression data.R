@@ -1,5 +1,4 @@
 # script to visualize gene expression data (GSE183947)
-# setwd('C:/Users/angel/Desktop/Rthings/Gene Expression')
 
 # load libraries
 library(tidyverse)
@@ -54,3 +53,4 @@ p <- dat.long %>%
 
 ggsave(p, filename = 'heatmap01.png', width = 10, height = 8)  # dimensions default is in inches
 
+sessionInfo()
